@@ -1,0 +1,6 @@
+image_processing
+*.o
+__pycache__/
+execution_log.txt
+input/*.ppm
+output/*.pgm
